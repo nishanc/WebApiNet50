@@ -43,8 +43,8 @@ namespace WebApiCore31
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = ".NET Core 3.1 Sample API",
-                    Description = "A simple example ASP.NET Core Web API",
+                    Title = ".NET 5.0 Sample API",
+                    Description = "A simple example ASP.NET 5.0 Web API",
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
                     {
