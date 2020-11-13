@@ -13,5 +13,6 @@ This repostitory consists of project for following aricles in my blog (originall
   * Open Visual Studio Code in `WebApiCore31` folder.
   * Open integrated terminal using Ctrl+Shift+`
   * Execute command `dotnet restore` in the terminal.
+  * Execute command `dotnet tool update --global dotnet-ef --version 5.0.0` in the terminal to update Entity Framework Core .NET Command-line Tools.
   * Execute command `dotnet ef database update` in the terminal. (to update the database using migrations)
   * Execute command `dotnet watch run` in the terminal.
