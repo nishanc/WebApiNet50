@@ -10,7 +10,7 @@ This repostitory consists of project for following aricles in my blog (originall
   * Download / Clone this repository.
   * Install latest [.NET](https://dotnet.microsoft.com/download/dotnet/5.0)
   * Create new database `MyDatabase` in SQL Server.
-  * Open Visual Studio Code in `WebApiCore31` folder.
+  * Open Visual Studio Code in `WebApiCore50` folder.
   * Open integrated terminal using Ctrl+Shift+`
   * Execute command `dotnet restore` in the terminal.
   * Execute command `dotnet tool update --global dotnet-ef --version 5.0.0` in the terminal to update Entity Framework Core .NET Command-line Tools.
